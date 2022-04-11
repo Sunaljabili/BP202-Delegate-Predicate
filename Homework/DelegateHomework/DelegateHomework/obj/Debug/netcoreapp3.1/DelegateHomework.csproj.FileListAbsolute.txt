@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\bin\Debug\netcoreapp3.1\DelegateHomework.exe
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\bin\Debug\netcoreapp3.1\DelegateHomework.deps.json
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\bin\Debug\netcoreapp3.1\DelegateHomework.runtimeconfig.json
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\bin\Debug\netcoreapp3.1\DelegateHomework.runtimeconfig.dev.json
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\bin\Debug\netcoreapp3.1\DelegateHomework.dll
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\bin\Debug\netcoreapp3.1\DelegateHomework.pdb
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\obj\Debug\netcoreapp3.1\DelegateHomework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\obj\Debug\netcoreapp3.1\DelegateHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\obj\Debug\netcoreapp3.1\DelegateHomework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\obj\Debug\netcoreapp3.1\DelegateHomework.AssemblyInfo.cs
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\obj\Debug\netcoreapp3.1\DelegateHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\obj\Debug\netcoreapp3.1\DelegateHomework.dll
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\obj\Debug\netcoreapp3.1\DelegateHomework.pdb
+C:\Users\User\Desktop\DelegateHomework\DelegateHomework\obj\Debug\netcoreapp3.1\DelegateHomework.genruntimeconfig.cache
